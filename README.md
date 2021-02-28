@@ -1,0 +1,2 @@
+# project
+Training on git
